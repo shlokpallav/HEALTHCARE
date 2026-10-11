@@ -1,0 +1,43 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local uploads and medical files
+uploads/
+
+# macOS
+.DS_Store
+
+# Test and tooling cache
+.pytest_cache/
+.mypy_cache/# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local uploads and medical files
+uploads/
+
+# macOS
+.DS_Store
+
+# Test and tooling cache
+.pytest_cache/
+.mypy_cache/
